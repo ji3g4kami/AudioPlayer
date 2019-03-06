@@ -5,6 +5,94 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>34596EF1-76BE-4845-BBBE-9861817047DE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>34596EF1-76BE-4845-BBBE-9861817047DE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573534759.73703504</real>
+			<key>timeStoppedRecording</key>
+			<real>573534781.56026196</real>
+			<key>title</key>
+			<string>Debug AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>34596EF1-76BE-4845-BBBE-9861817047DE</string>
+		</dict>
+		<key>5CB039C2-61DE-4D51-B86E-E9DFE1624F94</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5CB039C2-61DE-4D51-B86E-E9DFE1624F94.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573535656.00056505</real>
+			<key>timeStoppedRecording</key>
+			<real>573535686.49375105</real>
+			<key>title</key>
+			<string>Debug AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>5CB039C2-61DE-4D51-B86E-E9DFE1624F94</string>
+		</dict>
+		<key>AC87E930-EE7B-4C2C-9B06-A21F76C9E735</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AC87E930-EE7B-4C2C-9B06-A21F76C9E735.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573535696.09610701</real>
+			<key>timeStoppedRecording</key>
+			<real>573535705.18485701</real>
+			<key>title</key>
+			<string>Debug AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>AC87E930-EE7B-4C2C-9B06-A21F76C9E735</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

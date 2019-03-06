@@ -5,6 +5,181 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3EA45C6D-2B54-4ECC-ABAD-F0E35B410612</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EA45C6D-2B54-4ECC-ABAD-F0E35B410612.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573535635.99779606</real>
+			<key>timeStoppedRecording</key>
+			<real>573535641.75773799</real>
+			<key>title</key>
+			<string>Build AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>3EA45C6D-2B54-4ECC-ABAD-F0E35B410612</string>
+		</dict>
+		<key>3F90C343-5B97-49F1-9A2A-5BC7E0FD8E1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F90C343-5B97-49F1-9A2A-5BC7E0FD8E1B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573535695.98530996</real>
+			<key>timeStoppedRecording</key>
+			<real>573535696.16671395</real>
+			<key>title</key>
+			<string>Build AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>3F90C343-5B97-49F1-9A2A-5BC7E0FD8E1B</string>
+		</dict>
+		<key>8313EC95-1AF0-4763-BA7B-6833D5C48FEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8313EC95-1AF0-4763-BA7B-6833D5C48FEA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573535514.07465196</real>
+			<key>timeStoppedRecording</key>
+			<real>573535520.22363102</real>
+			<key>title</key>
+			<string>Build AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>8313EC95-1AF0-4763-BA7B-6833D5C48FEA</string>
+		</dict>
+		<key>874E404D-FA6F-4BF2-AA7D-8FCBA286BE03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>874E404D-FA6F-4BF2-AA7D-8FCBA286BE03.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573535606.48851299</real>
+			<key>timeStoppedRecording</key>
+			<real>573535607.69035804</real>
+			<key>title</key>
+			<string>Build AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>874E404D-FA6F-4BF2-AA7D-8FCBA286BE03</string>
+		</dict>
+		<key>A869D791-187F-4610-BE6D-C1A8640AF55C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A869D791-187F-4610-BE6D-C1A8640AF55C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573534759.64605403</real>
+			<key>timeStoppedRecording</key>
+			<real>573534759.789626</real>
+			<key>title</key>
+			<string>Build AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>A869D791-187F-4610-BE6D-C1A8640AF55C</string>
+		</dict>
+		<key>BC335649-CE1A-41AF-886F-8D0DA029983D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC335649-CE1A-41AF-886F-8D0DA029983D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AudioPlayer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AudioPlayer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AudioPlayer</string>
+			<key>timeStartedRecording</key>
+			<real>573535655.53980398</real>
+			<key>timeStoppedRecording</key>
+			<real>573535656.14895105</real>
+			<key>title</key>
+			<string>Build AudioPlayer</string>
+			<key>uniqueIdentifier</key>
+			<string>BC335649-CE1A-41AF-886F-8D0DA029983D</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -7,21 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		406CBB1E221E4ABE00B9C339 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB1D221E4ABE00B9C339 /* AppDelegate.swift */; };
-		406CBB20221E4ABE00B9C339 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB1F221E4ABE00B9C339 /* ViewController.swift */; };
-		406CBB23221E4ABE00B9C339 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 406CBB21221E4ABE00B9C339 /* Main.storyboard */; };
-		406CBB25221E4AC000B9C339 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 406CBB24221E4AC000B9C339 /* Assets.xcassets */; };
+		25C26C63B83775D3F11E00BC /* Pods_AudioPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95F622D0DE91504DFC63A597 /* Pods_AudioPlayer.framework */; };
+		405F5855222F754F0042EEC9 /* TimeTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405F5854222F754F0042EEC9 /* TimeTracker.swift */; };
 		406CBB28221E4AC000B9C339 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 406CBB26221E4AC000B9C339 /* LaunchScreen.storyboard */; };
+		406CBB39221E4B4E00B9C339 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB2F221E4B4C00B9C339 /* ViewController.swift */; };
+		406CBB3A221E4B4E00B9C339 /* AudioController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB30221E4B4D00B9C339 /* AudioController.swift */; };
+		406CBB3B221E4B4E00B9C339 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 406CBB31221E4B4D00B9C339 /* Main.storyboard */; };
+		406CBB3C221E4B4E00B9C339 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB32221E4B4D00B9C339 /* AppDelegate.swift */; };
+		406CBB3D221E4B4E00B9C339 /* Double + Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB33221E4B4D00B9C339 /* Double + Extensions.swift */; };
+		406CBB3E221E4B4E00B9C339 /* QueueTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 406CBB34221E4B4D00B9C339 /* QueueTableViewCell.xib */; };
+		406CBB3F221E4B4E00B9C339 /* QueueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB35221E4B4E00B9C339 /* QueueViewController.swift */; };
+		406CBB41221E4B4E00B9C339 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 406CBB37221E4B4E00B9C339 /* Images.xcassets */; };
+		406CBB42221E4B4E00B9C339 /* QueueTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406CBB38221E4B4E00B9C339 /* QueueTableViewCell.swift */; };
+		406CBB44221E4EE900B9C339 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 406CBB43221E4EE900B9C339 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A8E8379F9F96DBE7AE8D3F8 /* Pods-AudioPlayer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AudioPlayer.debug.xcconfig"; path = "Target Support Files/Pods-AudioPlayer/Pods-AudioPlayer.debug.xcconfig"; sourceTree = "<group>"; };
+		405F5854222F754F0042EEC9 /* TimeTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeTracker.swift; sourceTree = "<group>"; };
 		406CBB1A221E4ABE00B9C339 /* AudioPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		406CBB1D221E4ABE00B9C339 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		406CBB1F221E4ABE00B9C339 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		406CBB22221E4ABE00B9C339 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		406CBB24221E4AC000B9C339 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		406CBB27221E4AC000B9C339 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		406CBB29221E4AC000B9C339 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		406CBB2F221E4B4C00B9C339 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		406CBB30221E4B4D00B9C339 /* AudioController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioController.swift; sourceTree = "<group>"; };
+		406CBB31221E4B4D00B9C339 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		406CBB32221E4B4D00B9C339 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		406CBB33221E4B4D00B9C339 /* Double + Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Double + Extensions.swift"; sourceTree = "<group>"; };
+		406CBB34221E4B4D00B9C339 /* QueueTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QueueTableViewCell.xib; sourceTree = "<group>"; };
+		406CBB35221E4B4E00B9C339 /* QueueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QueueViewController.swift; sourceTree = "<group>"; };
+		406CBB37221E4B4E00B9C339 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		406CBB38221E4B4E00B9C339 /* QueueTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QueueTableViewCell.swift; sourceTree = "<group>"; };
+		406CBB43221E4EE900B9C339 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		95F622D0DE91504DFC63A597 /* Pods_AudioPlayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AudioPlayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A739BAEFBAC25D0FD7DD6493 /* Pods-AudioPlayer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AudioPlayer.release.xcconfig"; path = "Target Support Files/Pods-AudioPlayer/Pods-AudioPlayer.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +47,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25C26C63B83775D3F11E00BC /* Pods_AudioPlayer.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +59,8 @@
 			children = (
 				406CBB1C221E4ABE00B9C339 /* AudioPlayer */,
 				406CBB1B221E4ABE00B9C339 /* Products */,
+				4D5896E23FC5970CAFBF2F7E /* Pods */,
+				A81DB3CDBBB29E1D030A3713 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +75,38 @@
 		406CBB1C221E4ABE00B9C339 /* AudioPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				406CBB1D221E4ABE00B9C339 /* AppDelegate.swift */,
-				406CBB1F221E4ABE00B9C339 /* ViewController.swift */,
-				406CBB21221E4ABE00B9C339 /* Main.storyboard */,
-				406CBB24221E4AC000B9C339 /* Assets.xcassets */,
+				406CBB32221E4B4D00B9C339 /* AppDelegate.swift */,
+				406CBB30221E4B4D00B9C339 /* AudioController.swift */,
+				406CBB33221E4B4D00B9C339 /* Double + Extensions.swift */,
+				406CBB37221E4B4E00B9C339 /* Images.xcassets */,
+				406CBB31221E4B4D00B9C339 /* Main.storyboard */,
+				406CBB38221E4B4E00B9C339 /* QueueTableViewCell.swift */,
+				406CBB34221E4B4D00B9C339 /* QueueTableViewCell.xib */,
+				406CBB35221E4B4E00B9C339 /* QueueViewController.swift */,
+				406CBB2F221E4B4C00B9C339 /* ViewController.swift */,
 				406CBB26221E4AC000B9C339 /* LaunchScreen.storyboard */,
+				406CBB43221E4EE900B9C339 /* GoogleService-Info.plist */,
 				406CBB29221E4AC000B9C339 /* Info.plist */,
+				405F5854222F754F0042EEC9 /* TimeTracker.swift */,
 			);
 			path = AudioPlayer;
+			sourceTree = "<group>";
+		};
+		4D5896E23FC5970CAFBF2F7E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1A8E8379F9F96DBE7AE8D3F8 /* Pods-AudioPlayer.debug.xcconfig */,
+				A739BAEFBAC25D0FD7DD6493 /* Pods-AudioPlayer.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		A81DB3CDBBB29E1D030A3713 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				95F622D0DE91504DFC63A597 /* Pods_AudioPlayer.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +116,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 406CBB2C221E4AC000B9C339 /* Build configuration list for PBXNativeTarget "AudioPlayer" */;
 			buildPhases = (
+				9E20DFD8978A88AC1AF3E222 /* [CP] Check Pods Manifest.lock */,
 				406CBB16221E4ABE00B9C339 /* Sources */,
 				406CBB17221E4ABE00B9C339 /* Frameworks */,
 				406CBB18221E4ABE00B9C339 /* Resources */,
+				7A865B1EE99D24A458AC391F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -96,6 +143,12 @@
 				TargetAttributes = {
 					406CBB19221E4ABE00B9C339 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -122,35 +175,85 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				406CBB3E221E4B4E00B9C339 /* QueueTableViewCell.xib in Resources */,
+				406CBB41221E4B4E00B9C339 /* Images.xcassets in Resources */,
+				406CBB44221E4EE900B9C339 /* GoogleService-Info.plist in Resources */,
 				406CBB28221E4AC000B9C339 /* LaunchScreen.storyboard in Resources */,
-				406CBB25221E4AC000B9C339 /* Assets.xcassets in Resources */,
-				406CBB23221E4ABE00B9C339 /* Main.storyboard in Resources */,
+				406CBB3B221E4B4E00B9C339 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7A865B1EE99D24A458AC391F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AudioPlayer/Pods-AudioPlayer-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftAudio/SwiftAudio.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftAudio.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AudioPlayer/Pods-AudioPlayer-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9E20DFD8978A88AC1AF3E222 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AudioPlayer-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		406CBB16221E4ABE00B9C339 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				406CBB20221E4ABE00B9C339 /* ViewController.swift in Sources */,
-				406CBB1E221E4ABE00B9C339 /* AppDelegate.swift in Sources */,
+				406CBB3F221E4B4E00B9C339 /* QueueViewController.swift in Sources */,
+				406CBB3C221E4B4E00B9C339 /* AppDelegate.swift in Sources */,
+				406CBB3A221E4B4E00B9C339 /* AudioController.swift in Sources */,
+				406CBB3D221E4B4E00B9C339 /* Double + Extensions.swift in Sources */,
+				406CBB39221E4B4E00B9C339 /* ViewController.swift in Sources */,
+				405F5855222F754F0042EEC9 /* TimeTracker.swift in Sources */,
+				406CBB42221E4B4E00B9C339 /* QueueTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		406CBB21221E4ABE00B9C339 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				406CBB22221E4ABE00B9C339 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		406CBB26221E4AC000B9C339 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -280,17 +383,21 @@
 		};
 		406CBB2D221E4AC000B9C339 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A8E8379F9F96DBE7AE8D3F8 /* Pods-AudioPlayer.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ND2LGZT6B5;
 				INFOPLIST_FILE = AudioPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.dengli.AudioPlayer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -298,11 +405,14 @@
 		};
 		406CBB2E221E4AC000B9C339 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A739BAEFBAC25D0FD7DD6493 /* Pods-AudioPlayer.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ND2LGZT6B5;
 				INFOPLIST_FILE = AudioPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
